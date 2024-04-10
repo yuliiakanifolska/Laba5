@@ -1,0 +1,14 @@
+/Users/admin/Projects/laba 5/bin/Debug/net7.0/laba 5
+/Users/admin/Projects/laba 5/bin/Debug/net7.0/laba 5.deps.json
+/Users/admin/Projects/laba 5/bin/Debug/net7.0/laba 5.runtimeconfig.json
+/Users/admin/Projects/laba 5/bin/Debug/net7.0/laba 5.dll
+/Users/admin/Projects/laba 5/bin/Debug/net7.0/laba 5.pdb
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.AssemblyInfoInputs.cache
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.AssemblyInfo.cs
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.dll
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/refint/laba 5.dll
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.pdb
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/laba 5.genruntimeconfig.cache
+/Users/admin/Projects/laba 5/obj/Debug/net7.0/ref/laba 5.dll
